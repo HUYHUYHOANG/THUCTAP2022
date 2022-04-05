@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55899044719",
+    "project_id": "appchathoang",
+    "storage_bucket": "appchathoang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55899044719:android:54ef027c07e2e8410d869a",
+        "android_client_info": {
+          "package_name": "com.example.app_chat_hoang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55899044719-74hoe1pl5ivpd8qt2od8mjaq4v48bs0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_chat_hoang",
+            "certificate_hash": "699586d82e836e565fa4a61a4df3a2af6e14624d"
+          }
+        },
+        {
+          "client_id": "55899044719-g9pnp9tj9ds2tn6hr3p3k9f2ns43mv71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUdGaYiFtDJlfqtxZIDwd7gNdOaC51Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55899044719-g9pnp9tj9ds2tn6hr3p3k9f2ns43mv71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
