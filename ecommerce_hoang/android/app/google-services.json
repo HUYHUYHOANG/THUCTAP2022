@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153906757539",
+    "project_id": "ecommerce-hoang",
+    "storage_bucket": "ecommerce-hoang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153906757539:android:b8f5b0b23543e8c2c8e416",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_hoang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153906757539-k3afhgd1kp2ns7f42jcnk94fk5ublmfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce_hoang",
+            "certificate_hash": "699586d82e836e565fa4a61a4df3a2af6e14624d"
+          }
+        },
+        {
+          "client_id": "153906757539-h5a7msn83su44i8vndvg74trvvmg3cle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfEHhcjVLXKBAQFv0AVXslat2ZvW4hPbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153906757539-h5a7msn83su44i8vndvg74trvvmg3cle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
